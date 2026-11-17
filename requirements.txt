@@ -1,0 +1,4 @@
+psycopg[binary]
+pgvector
+pytest
+python-dotenv
