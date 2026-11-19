@@ -1,0 +1,17 @@
+[
+  {"q": "How many days do I have to return a product?", "expected": "refund_policy.md#0"},
+  {"q": "How long does a refund take to reach my account?", "expected": "refund_policy.md#1"},
+  {"q": "Can I get my money back on a gift card?", "expected": "refund_policy.md#2"},
+  {"q": "How many paid leave days do I get in a year?", "expected": "leave_policy.md#0"},
+  {"q": "Do I need a doctor's note for one day of sick leave?", "expected": "leave_policy.md#1"},
+  {"q": "How many leave days can I carry to next year?", "expected": "leave_policy.md#2"},
+  {"q": "By when must I submit my travel claim?", "expected": "expenses.md#0"},
+  {"q": "What is the hotel cost limit per night?", "expected": "expenses.md#1"},
+  {"q": "When does a meal bill need manager approval?", "expected": "expenses.md#2"},
+  {"q": "When do I get my laptop?", "expected": "onboarding.md#0"},
+  {"q": "Who helps me in my first month?", "expected": "onboarding.md#1"},
+  {"q": "When must I finish security training?", "expected": "onboarding.md#2"},
+  {"q": "What is the minimum password length?", "expected": "security_policy.md#0"},
+  {"q": "Who approves production access?", "expected": "security_policy.md#1"},
+  {"q": "How fast must a security incident be reported?", "expected": "security_policy.md#2"}
+]
